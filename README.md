@@ -1,3 +1,3 @@
 # test
 
-![Overview](/aadRoleSync.png)
+![Overview](/images/aadRoleSync.png)
